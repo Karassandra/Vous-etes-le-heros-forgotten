@@ -10,4 +10,4 @@
 **Palette de couleurs**: [Coolors.co](https://coolors.co/340704-260503-e9e3dd-e2453a-a01a08)
 
 ## Diagramme
-![](Synopsis_Diagramme.png)
+![](assets/Synopsis_Diagramme.png)
